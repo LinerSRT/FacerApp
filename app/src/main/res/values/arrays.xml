@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="android_wear_capabilities">
+        <item>FACER_ANDROID_WEAR_APP</item>
+    </array>
+    <array name="progress_spinner_sequence">
+        <item>#fff4b400</item>
+        <item>#ffdb4437</item>
+        <item>#ff4285f4</item>
+        <item>#ff0f9d58</item>
+    </array>
+    <array name="watchface_text_hours">
+        <item>ONE</item>
+        <item>TWO</item>
+        <item>THREE</item>
+        <item>FOUR</item>
+        <item>FIVE</item>
+        <item>SIX</item>
+        <item>SEVEN</item>
+        <item>EIGHT</item>
+        <item>NINE</item>
+        <item>TEN</item>
+        <item>ELEVEN</item>
+        <item>TWELVE</item>
+        <item>THIRTEEN</item>
+        <item>FOURTEEN</item>
+        <item>FIFTEEN</item>
+        <item>SIXTEEN</item>
+        <item>SEVENTEEN</item>
+        <item>EIGHTEEN</item>
+        <item>NINETEEN</item>
+        <item>TWENTY</item>
+        <item>TWENTY ONE</item>
+        <item>TWENTY TWO</item>
+        <item>TWENTY THREE</item>
+        <item>TWENTY FOUR</item>
+    </array>
+    <array name="watchface_text_minutes_major">
+        <item>TEN</item>
+        <item>TWENTY</item>
+        <item>THIRTY</item>
+        <item>FORTY</item>
+        <item>FIFTY</item>
+    </array>
+</resources>
